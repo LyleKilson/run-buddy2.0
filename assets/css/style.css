@@ -76,6 +76,13 @@ section {
   background-size: cover;
   background-position: center;
 }
+.hero-heading {
+ 
+}
+
+.hero-heading h1 {
+  color: #fce138;
+}
 
 .hero-form {
   border: 3px solid #024e76;
@@ -251,7 +258,8 @@ section {
   color: #fce138;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p,
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
